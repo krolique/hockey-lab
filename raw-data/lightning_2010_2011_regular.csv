@@ -1,0 +1,83 @@
+Date,Video,H/R,Dec,O/S,Opp,Record,GF,GA,PPG,PP Opp,PPGA,TS,SHGF,SHGA,SF,SA,Att,W Goalie,W Goal
+Apr 09 '11,video,R,W,,CAR,46-25-11,6,2,0,1,1,7,0,0,35,44,17805,M. Smith,S. Stamkos
+Apr 08 '11,video,H,W,,FLA,45-25-11,4,2,2,4,0,5,0,0,33,25,20444,D. Roloson,V. Lecavalier
+Apr 05 '11,video,R,L,,BUF,44-25-11,2,4,0,2,1,3,0,0,25,24,18690,J. Enroth,T. Connolly
+Apr 03 '11,video,R,W,,CHI,44-24-11,2,0,1,5,0,2,0,0,15,31,21587,M. Smith,V. Lecavalier
+Apr 02 '11,video,R,W,,MIN,43-24-11,3,1,0,4,0,4,0,0,23,30,18591,D. Roloson,S. Downie
+Mar 31 '11,video,H,W,,PIT,42-24-11,2,1,0,4,0,5,0,0,24,37,20126,D. Roloson,M. St. Louis
+Mar 29 '11,video,H,W,,OTT,41-24-11,5,2,0,4,0,2,0,1,31,33,16626,D. Roloson,M. St. Louis
+Mar 26 '11,video,R,W,,CAR,40-24-11,4,2,1,2,1,3,0,0,32,35,17264,M. Smith,D. Moore
+Mar 25 '11,video,H,L,,CAR,39-24-11,3,4,2,5,2,6,0,0,21,39,16656,C. Ward,E. Staal
+Mar 22 '11,video,H,L,,NYI,39-23-11,2,5,1,7,1,3,0,2,38,28,17400,A. Montoya,M. Martin
+Mar 19 '11,video,R,O,OT,OTT,39-22-11,2,3,0,3,0,2,0,1,37,34,18813,C. McElhinney,J. Spezza
+Mar 17 '11,video,R,O,SO,MTL,39-22-10,2,2,2,5,0,3,0,1,37,29,21273,C. Price,M. Cammalleri
+Mar 14 '11,video,R,W,,TOR,39-22-9,6,2,0,0,0,3,0,0,36,32,19410,D. Roloson,M. Ritola
+Mar 12 '11,video,R,O,OT,FLA,38-22-9,3,4,3,8,0,4,0,0,38,27,16607,S. Clemmensen,J. Garrison
+Mar 11 '11,video,H,L,,OTT,38-22-8,1,2,1,5,1,6,0,0,35,22,18777,C. McElhinney,B. Butler
+Mar 09 '11,video,H,W,SO,CHI,38-21-8,3,3,0,2,0,1,0,0,30,31,19912,D. Roloson,M. St. Louis
+Mar 07 '11,video,H,O,SO,WSH,37-21-8,1,1,1,4,0,3,0,0,28,30,16835,B. Holtby,A. Ovechkin
+Mar 05 '11,video,H,L,,MTL,37-21-7,2,4,1,6,2,3,0,0,45,23,20274,C. Price,M. Pacioretty
+Mar 03 '11,video,R,L,,BOS,37-20-7,1,2,0,4,0,3,0,0,28,28,17565,T. Thomas,M. Lucic
+Mar 02 '11,video,R,L,,NJD,37-19-7,1,2,1,2,0,2,0,0,16,27,12857,M. Brodeur,I. Kovalchuk
+Feb 27 '11,video,R,W,,NYR,37-18-7,2,1,1,6,0,4,0,1,19,23,18200,D. Roloson,V. Lecavalier
+Feb 25 '11,video,H,W,,NJD,36-18-7,2,1,0,2,0,1,0,0,30,20,19563,D. Roloson,S. Gagne
+Feb 23 '11,video,H,W,,PHX,35-18-7,8,3,3,4,0,2,0,0,39,28,15104,D. Roloson,S. Stamkos
+Feb 19 '11,video,H,O,SO,FLA,34-18-7,2,2,0,6,2,3,0,0,36,26,18710,S. Clemmensen,M. Santorelli
+Feb 17 '11,video,H,L,,DET,34-18-6,2,6,0,5,2,3,0,0,40,31,20849,J. Howard,N. Kronwall
+Feb 15 '11,video,H,O,SO,PHI,34-17-6,3,3,1,4,1,3,0,1,27,29,16950,B. Boucher,K. Timonen
+Feb 12 '11,video,H,W,OT,CAR,34-17-5,4,3,1,5,1,7,0,0,41,34,19910,D. Roloson,M. Bergeron
+Feb 08 '11,video,H,L,,BUF,33-17-5,4,7,1,5,1,5,0,0,34,28,14444,R. Miller,T. Vanek
+Feb 06 '11,video,H,W,OT,STL,33-16-5,4,3,1,5,1,4,0,0,40,32,14896,D. Ellis,V. Lecavalier
+Feb 04 '11,video,H,L,,WSH,32-16-5,2,5,1,4,1,4,0,0,25,36,20216,S. Varlamov,A. Ovechkin
+Feb 01 '11,video,H,W,,PHI,32-15-5,4,0,0,2,0,4,0,0,22,38,16635,D. Roloson,T. Purcell
+Jan 25 '11,video,H,W,,TOR,31-15-5,2,0,1,5,0,2,0,0,31,26,14335,D. Roloson,S. Gagne
+Jan 23 '11,video,H,W,,ATL,30-15-5,7,1,1,2,0,2,1,0,39,22,13916,D. Roloson,D. Tyrell
+Jan 21 '11,video,R,W,SO,FLA,29-15-5,1,1,0,1,0,7,0,0,21,30,17328,D. Ellis,D. Moore
+Jan 20 '11,video,R,W,SO,ATL,28-15-5,2,2,0,2,1,2,0,0,31,29,12314,D. Roloson,D. Moore
+Jan 18 '11,video,H,W,SO,CBJ,27-15-5,2,2,1,4,0,4,0,0,22,30,13291,D. Roloson,R. Malone
+Jan 15 '11,video,R,L,,CAR,26-15-5,4,6,0,5,4,6,0,1,34,31,18680,C. Ward,E. Staal
+Jan 14 '11,video,H,L,,NJD,26-14-5,2,5,1,3,0,1,0,1,32,25,18736,M. Brodeur,P. Elias
+Jan 12 '11,video,H,W,,WSH,26-13-5,3,0,0,6,0,2,0,0,38,23,18135,D. Roloson,D. Moore
+Jan 09 '11,video,R,L,,NJD,25-13-5,3,6,1,4,1,4,0,0,36,26,16197,M. Brodeur,D. Zubrus
+Jan 08 '11,video,R,W,,OTT,25-12-5,2,1,0,5,0,3,0,0,27,32,19698,D. Roloson,M. St. Louis
+Jan 05 '11,video,R,L,,PIT,24-12-5,1,8,0,2,2,4,0,0,32,41,18261,M. Fleury,C. Conner
+Jan 04 '11,video,R,W,OT,WSH,24-11-5,1,0,0,3,0,3,0,0,38,34,18398,D. Roloson,M. St. Louis
+Jan 01 '11,video,H,W,OT,NYR,23-11-5,2,1,0,3,0,2,0,0,33,35,18242,C. Desjardins,N. Thompson
+Dec 30 '10,video,H,W,,MTL,22-11-5,4,1,1,6,0,5,0,0,23,28,20191,C. Desjardins,P. Kubina
+Dec 28 '10,video,H,L,,BOS,21-11-5,3,4,1,5,2,6,0,0,34,29,20204,T. Thomas,M. Recchi
+Dec 26 '10,video,R,W,OT,ATL,21-10-5,3,2,1,6,0,2,0,0,34,28,14610,D. Ellis,V. Lecavalier
+Dec 23 '10,video,R,W,SO,NYR,20-10-5,3,3,0,1,0,1,0,0,24,37,18200,D. Ellis,R. Malone
+Dec 22 '10,video,R,O,OT,NYI,19-10-5,1,2,1,6,0,2,0,0,35,28,7324,D. Roloson,J. Tavares
+Dec 20 '10,video,H,W,,CAR,19-10-4,5,1,2,3,1,5,0,0,34,22,17210,D. Ellis,M. St. Louis
+Dec 18 '10,video,H,W,,BUF,18-10-4,3,1,1,4,0,5,0,0,37,23,17141,M. Smith,S. Stamkos
+Dec 15 '10,video,H,W,SO,ATL,17-10-4,1,1,0,2,0,5,0,1,31,28,14441,M. Smith,V. Hedman
+Dec 11 '10,video,R,W,OT,VAN,16-10-4,5,4,2,3,2,4,0,0,23,27,18860,D. Ellis,S. Stamkos
+Dec 10 '10,video,R,O,SO,EDM,15-10-4,3,3,1,5,2,3,0,0,41,23,16839,N. Khabibulin,J. Eberle
+Dec 07 '10,video,R,L,,CGY,15-10-3,2,4,0,2,1,4,0,0,24,19,19289,M. Kiprusoff,R. Bourque
+Dec 04 '10,video,H,W,,COL,15-9-3,6,5,2,6,1,4,0,0,39,24,18212,D. Ellis,S. Bergenheim
+Dec 02 '10,video,R,L,,BOS,14-9-3,1,8,0,1,1,4,0,0,38,32,17565,T. Thomas,D. Seidenberg
+Nov 30 '10,video,R,W,OT,TOR,14-8-3,4,3,1,5,1,4,0,0,39,25,19063,D. Ellis,S. Gagne
+Nov 27 '10,video,H,O,SO,FLA,13-8-3,3,3,1,7,0,4,0,1,37,27,15854,T. Vokoun,S. Weiss
+Nov 26 '10,video,R,L,,WSH,13-8-2,0,6,0,5,2,4,0,0,17,29,18398,S. Varlamov,J. Carlson
+Nov 24 '10,video,H,W,,NYR,13-7-2,5,3,3,6,1,4,0,1,34,20,17806,M. Smith,B. Clark
+Nov 22 '10,video,H,W,,BOS,12-7-2,3,1,0,3,0,2,0,0,36,27,16241,M. Smith,S. Stamkos
+Nov 20 '10,video,R,W,,BUF,11-7-2,2,1,0,3,0,2,0,0,22,30,17833,M. Smith,A. Hall
+Nov 18 '10,video,R,W,,PHI,10-7-2,8,7,3,9,0,4,0,0,33,32,19672,M. Smith,N. Thompson
+Nov 17 '10,video,R,W,,NYI,9-7-2,4,2,2,4,0,4,0,0,40,36,8025,D. Ellis,M. St. Louis
+Nov 14 '10,video,H,L,,MIN,8-7-2,1,4,1,3,2,3,0,0,38,18,14868,N. Backstrom,J. Madden
+Nov 12 '10,video,R,L,,PIT,8-6-2,1,5,1,8,0,4,0,0,16,20,18275,M. Fleury,A. Goligoski
+Nov 11 '10,video,R,L,,WSH,8-5-2,3,6,1,4,1,1,0,0,41,26,18398,M. Neuvirth,A. Semin
+Nov 09 '10,video,H,W,,TOR,8-4-2,4,0,1,2,0,5,0,0,25,28,16791,D. Ellis,S. Stamkos
+Nov 06 '10,video,R,L,,SJS,7-4-2,2,5,1,4,1,7,0,1,35,39,17562,A. Niittymaki,D. Heatley
+Nov 04 '10,video,R,L,,LAK,7-3-2,0,1,0,3,0,4,0,0,24,26,18118,J. Quick,J. Williams
+Nov 03 '10,video,R,O,OT,ANA,7-2-2,2,3,1,4,1,5,0,0,34,30,13034,J. Hiller,R. Getzlaf
+Oct 30 '10,video,R,W,,PHX,7-2-1,3,0,0,1,0,2,0,0,23,23,8171,D. Ellis,M. Ritola
+Oct 27 '10,video,H,W,,PIT,6-2-1,5,3,1,7,0,5,0,2,31,31,17226,D. Ellis,M. St. Louis
+Oct 24 '10,video,H,L,,NSH,5-2-1,3,4,0,4,0,1,0,0,45,26,14454,A. Lindback,C. Wilson
+Oct 22 '10,video,R,W,,ATL,5-1-1,5,2,2,6,1,8,0,0,33,30,9138,M. Smith,S. Stamkos
+Oct 21 '10,video,H,O,OT,NYI,4-1-1,2,3,0,4,1,5,0,0,30,25,13333,R. DiPietro,M. Moulson
+Oct 18 '10,video,H,W,,DAL,4-1-0,5,4,4,5,0,5,0,1,44,19,13277,M. Smith,D. Moore
+Oct 16 '10,video,R,L,,FLA,3-1-0,0,6,0,2,1,4,0,0,29,38,17040,T. Vokoun,C. Stillman
+Oct 14 '10,video,R,W,,PHI,3-0-0,3,2,0,6,0,4,0,0,24,26,19592,D. Ellis,P. Kubina
+Oct 13 '10,video,R,W,OT,MTL,2-0-0,4,3,2,6,0,3,0,0,48,27,21273,M. Smith,R. Malone
+Oct 09 '10,video,H,W,,ATL,1-0-0,5,3,2,5,1,6,0,0,36,30,19791,M. Smith,S. Stamkos

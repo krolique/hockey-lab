@@ -1,0 +1,83 @@
+Date,Video,H/R,Dec,O/S,Opp,Record,GF,GA,PPG,PP Opp,PPGA,TS,SHGF,SHGA,SF,SA,Att,W Goalie,W Goal
+12 Apr '14,video,R,L,,OTT,38-36-8,0,1,0,4,1,3,0,0,28,37,20500,C. Anderson,J. Spezza
+10 Apr '14,video,R,L,,FLA,38-35-8,2,4,0,2,0,3,0,1,29,37,13110,R. Luongo,N. Bjugstad
+08 Apr '14,video,R,L,,TBL,38-34-8,0,3,0,3,1,1,0,0,28,34,18896,A. Lindback,O. Palat
+05 Apr '14,video,H,L,,WPG,38-33-8,2,4,1,4,1,2,0,0,25,41,19544,O. Pavelec,T. Enstrom
+03 Apr '14,video,H,W,OT,BOS,38-32-8,4,3,1,3,0,2,0,0,31,38,19609,J. Reimer,N. Kadri
+01 Apr '14,video,H,W,,CGY,37-32-8,3,2,0,1,0,2,0,0,22,24,19482,J. Bernier,D. Clarkson
+29 Mar '14,video,H,L,,DET,36-32-8,2,4,0,2,0,3,0,1,27,28,20270,J. Howard,D. Helm
+28 Mar '14,video,R,L,,PHI,36-31-8,2,4,0,4,2,5,0,0,34,29,19963,S. Mason,C. Giroux
+25 Mar '14,video,H,L,,STL,36-30-8,3,5,1,3,1,3,0,0,25,49,19505,R. Miller,A. Steen
+23 Mar '14,video,R,L,,NJD,36-29-8,2,3,1,4,0,2,0,0,23,24,15328,C. Schneider,J. Merrill
+22 Mar '14,video,H,L,,MTL,36-28-8,3,4,1,2,0,2,0,0,36,36,19789,C. Price,T. Plekanec
+19 Mar '14,video,H,L,,TBL,36-27-8,3,5,0,3,2,5,0,0,39,30,19585,B. Bishop,S. Stamkos
+18 Mar '14,video,R,L,,DET,36-26-8,2,3,1,4,0,4,0,0,33,31,20066,J. Howard,D. Alfredsson
+16 Mar '14,video,R,L,,WSH,36-25-8,2,4,0,3,2,4,0,0,29,33,18506,J. Halak,J. Ward
+13 Mar '14,video,R,W,,LAK,36-24-8,3,2,1,3,1,4,1,0,29,41,18319,J. Reimer,M. Raymond
+11 Mar '14,video,R,L,,SJS,35-24-8,2,6,0,2,0,6,1,0,21,48,17562,A. Niemi,T. Wingels
+10 Mar '14,video,R,W,,ANA,35-23-8,3,1,1,2,0,4,0,0,23,44,17229,J. Bernier,P. Kessel
+08 Mar '14,video,H,W,OT,PHI,34-23-8,4,3,0,3,0,2,0,0,36,31,19583,J. Bernier,J. Lupul
+05 Mar '14,video,R,W,OT,NYR,33-23-8,3,2,0,2,0,1,0,2,29,37,18006,J. Bernier,T. Bozak
+03 Mar '14,video,H,L,,CBJ,32-23-8,1,2,0,2,0,1,0,0,29,33,19577,S. Bobrovsky,A. Anisimov
+01 Mar '14,video,R,O,OT,MTL,32-22-8,3,4,0,3,2,5,1,0,25,30,21273,P. Budaj,M. Pacioretty
+27 Feb '14,video,R,O,OT,NYI,32-22-7,4,5,0,4,1,4,0,2,22,35,13922,E. Nabokov,L. Visnovsky
+08 Feb '14,video,H,W,,VAN,32-22-6,3,1,0,3,0,2,0,0,24,33,19662,J. Bernier,P. Kessel
+06 Feb '14,video,R,W,,TBL,31-22-6,4,1,0,1,0,1,0,0,36,34,19204,J. Bernier,J. McClement
+04 Feb '14,video,R,L,,FLA,30-22-6,1,4,0,0,1,2,0,0,21,48,15583,T. Thomas,J. Winchester
+01 Feb '14,video,H,W,,OTT,30-21-6,6,3,1,5,0,2,0,0,36,26,19613,J. Bernier,P. Kessel
+30 Jan '14,video,H,W,,FLA,29-21-6,6,3,2,3,0,5,0,0,32,38,19448,J. Bernier,N. Kulemin
+28 Jan '14,video,H,W,,TBL,28-21-6,3,2,0,3,0,3,0,0,26,42,19475,J. Bernier,J. van Riemsdyk
+25 Jan '14,video,R,O,OT,WPG,27-21-6,4,5,1,5,2,3,0,0,28,32,15004,O. Pavelec,D. Byfuglien
+23 Jan '14,video,R,L,,DAL,27-21-5,1,7,0,3,1,2,0,1,25,28,13678,K. Lehtonen,C. Eakin
+21 Jan '14,video,R,W,,COL,27-20-5,5,2,1,4,0,4,0,0,31,37,14877,J. Reimer,J. Gardiner
+20 Jan '14,video,R,W,,PHX,26-20-5,4,2,2,6,1,4,0,1,29,41,14476,J. Bernier,C. Gunnarsson
+18 Jan '14,video,H,W,,MTL,25-20-5,5,3,1,2,1,3,0,0,29,33,19667,J. Bernier,J. van Riemsdyk
+15 Jan '14,video,H,W,SO,BUF,24-20-5,3,3,0,2,1,2,0,0,39,30,19372,J. Reimer,J. Lupul
+14 Jan '14,video,R,W,,BOS,23-20-5,4,3,2,5,0,3,0,0,26,41,17565,J. Bernier,J. van Riemsdyk
+12 Jan '14,video,H,W,SO,NJD,22-20-5,2,2,1,4,1,4,0,0,25,38,19175,J. Bernier,J. van Riemsdyk
+10 Jan '14,video,R,L,,WSH,21-20-5,2,3,1,3,0,4,0,0,34,35,18506,M. Neuvirth,J. Ward
+09 Jan '14,video,R,L,,CAR,21-19-5,1,6,0,2,2,6,0,1,26,36,16583,A. Khudobin,J. Skinner
+07 Jan '14,video,H,L,,NYI,21-18-5,3,5,1,5,1,1,0,0,26,25,19164,K. Poulin,C. de Haan
+04 Jan '14,video,H,L,,NYR,21-17-5,1,7,0,1,1,3,0,0,26,50,19362,C. Talbot,D. Moore
+01 Jan '14,video,R,W,SO,DET,21-16-5,2,2,0,2,0,4,0,0,26,43,99999,J. Bernier,T. Bozak
+29 Dec '13,video,H,W,,CAR,20-16-5,5,2,0,2,1,2,0,0,27,43,19452,J. Bernier,N. Kulemin
+27 Dec '13,video,H,W,SO,BUF,19-16-5,3,3,1,3,1,1,0,0,42,35,19405,J. Bernier,J. Lupul
+23 Dec '13,video,R,O,SO,NYR,18-16-5,1,1,0,4,0,4,0,0,26,43,18006,C. Talbot,D. Stepan
+21 Dec '13,video,H,O,SO,DET,18-16-4,4,4,1,4,0,1,0,0,23,38,19508,J. Gustavsson,D. Alfredsson
+19 Dec '13,video,H,W,SO,PHX,18-16-3,1,1,0,3,0,2,0,0,27,35,19254,J. Reimer,J. Lupul
+17 Dec '13,video,H,L,,FLA,17-16-3,1,3,0,2,0,2,0,0,29,23,19076,S. Clemmensen,S. Bergenheim
+16 Dec '13,video,R,L,,PIT,17-15-3,1,3,1,5,0,1,0,1,26,31,18573,M. Fleury,S. Crosby
+14 Dec '13,video,H,W,,CHI,17-14-3,7,3,2,4,1,2,0,0,32,28,19603,J. Bernier,N. Kulemin
+12 Dec '13,video,R,L,,STL,16-14-3,3,6,0,3,0,3,0,0,22,36,16073,B. Elliott,C. Stewart
+11 Dec '13,video,H,L,,LAK,16-13-3,1,3,1,3,1,2,0,0,39,23,19375,M. Jones,J. Carter
+08 Dec '13,video,H,L,,BOS,16-12-3,2,5,0,4,2,3,0,0,32,39,19165,C. Johnson,K. Miller
+07 Dec '13,video,R,W,SO,OTT,16-11-3,3,3,1,6,2,8,0,0,31,50,19559,J. Reimer,J. van Riemsdyk
+05 Dec '13,video,H,W,OT,DAL,15-11-3,3,2,1,2,1,4,0,0,24,50,19164,J. Bernier,T. Smith
+03 Dec '13,video,H,L,,SJS,14-11-3,2,4,2,3,1,4,0,0,30,41,19360,A. Niemi,B. Stuart
+30 Nov '13,video,R,L,,MTL,14-10-3,2,4,0,4,1,2,0,1,36,39,21273,C. Price,T. Plekanec
+29 Nov '13,video,R,O,OT,BUF,14-9-3,2,3,0,1,1,4,0,0,24,29,19070,R. Miller,C. Ehrhoff
+27 Nov '13,video,R,O,SO,PIT,14-9-2,5,5,1,3,3,5,0,0,24,48,18660,J. Zatkoff,S. Crosby
+25 Nov '13,video,H,L,,CBJ,14-9-1,0,6,0,1,2,4,0,0,18,22,19241,S. Bobrovsky,C. Atkinson
+23 Nov '13,video,H,W,SO,WSH,14-8-1,1,1,1,1,0,3,0,0,28,50,19473,J. Reimer,J. Lupul
+21 Nov '13,video,H,L,,NSH,13-8-1,2,4,0,2,2,4,0,0,26,28,19256,M. Mazanec,C. Smith
+19 Nov '13,video,H,W,,NYI,13-7-1,5,2,1,2,0,2,0,0,24,37,19446,J. Bernier,M. Raymond
+16 Nov '13,video,H,W,,BUF,12-7-1,4,2,2,2,1,3,0,0,22,35,19447,J. Reimer,N. Kulemin
+15 Nov '13,video,R,L,,BUF,11-7-1,1,3,0,3,1,3,0,0,33,27,19070,R. Miller,M. Foligno
+13 Nov '13,video,R,O,SO,MIN,11-6-1,1,1,1,3,0,5,0,0,23,34,17897,J. Harding,Z. Parise
+09 Nov '13,video,R,L,,BOS,11-6-0,1,3,0,3,2,3,0,0,34,34,17565,T. Rask,P. Bergeron
+08 Nov '13,video,H,W,SO,NJD,11-5-0,1,1,1,6,1,3,0,0,28,35,19377,J. Bernier,J. van Riemsdyk
+02 Nov '13,video,R,L,,VAN,10-5-0,0,4,0,4,1,9,0,0,21,47,18910,R. Luongo,D. Sedin
+30 Oct '13,video,R,W,,CGY,10-4-0,4,2,0,1,0,5,2,0,22,43,19289,J. Bernier,M. Raymond
+29 Oct '13,video,R,W,,EDM,9-4-0,4,0,0,1,0,1,0,0,26,43,16839,J. Reimer,P. Kessel
+26 Oct '13,video,H,W,,PIT,8-4-0,4,1,1,3,1,3,1,0,30,38,19539,J. Reimer,N. Kadri
+25 Oct '13,video,R,L,,CBJ,7-4-0,2,5,0,3,1,6,0,1,25,36,13930,S. Bobrovsky,B. Dubinsky
+22 Oct '13,video,H,W,,ANA,7-3-0,4,2,1,3,0,4,0,0,23,25,19408,J. Bernier,P. Kessel
+19 Oct '13,video,R,L,,CHI,6-3-0,1,3,1,5,1,3,0,0,20,40,21801,C. Crawford,M. Kostka
+17 Oct '13,video,H,L,,CAR,6-2-0,2,3,0,4,1,4,0,0,26,38,19277,C. Ward,R. Hainsey
+15 Oct '13,video,H,W,,MIN,6-1-0,4,1,2,3,1,5,0,0,14,37,19283,J. Reimer,T. Smith
+12 Oct '13,video,H,W,OT,EDM,5-1-0,6,5,1,3,1,4,0,0,26,31,19379,J. Bernier,D. Bolland
+10 Oct '13,video,R,W,,NSH,4-1-0,4,0,2,4,0,3,0,0,26,36,16671,J. Bernier,P. Kessel
+08 Oct '13,video,H,L,,COL,3-1-0,1,2,0,2,0,3,0,0,28,33,19388,S. Varlamov,P. Parenteau
+05 Oct '13,video,H,W,SO,OTT,3-0-0,4,4,2,6,0,1,0,0,42,36,19552,J. Bernier,M. Raymond
+02 Oct '13,video,R,W,,PHI,2-0-0,3,1,1,2,1,7,0,0,25,32,19872,J. Bernier,D. Bolland
+01 Oct '13,video,R,W,,MTL,1-0-0,4,3,1,7,0,4,1,0,38,37,21273,J. Reimer,M. Raymond
