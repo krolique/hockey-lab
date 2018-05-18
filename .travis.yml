@@ -1,0 +1,22 @@
+language: python
+
+python:
+    - "3.6"
+
+cache: pip
+
+install:
+  - "pip install -r .travis/requirements.txt"
+
+branches:
+  only:
+    - master
+    - develop
+
+before_script:
+  - ./.travis/git_branch_checker.sh
+
+script:
+  - ./.travis/style_guide_enforcement.sh
+  - ./.travis/cyclomatic_complexity_checker.sh
+  - ./.travis/maintainability_checker.sh
