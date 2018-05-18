@@ -31,3 +31,9 @@ section such as this:
 - Something I've changed and decided to add this to the release log
 
 ```
+
+## [0.0.1] - 2018-05-18
+### Changed
+- Renamed the repo, subsequently had to change documentation and other
+upkeep items in the setup.
+
