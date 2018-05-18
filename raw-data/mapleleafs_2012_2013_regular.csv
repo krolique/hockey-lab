@@ -1,0 +1,49 @@
+Date,Video,H/R,Dec,O/S,Opp,Record,GF,GA,PPG,PP Opp,PPGA,TS,SHGF,SHGA,SF,SA,Att,W Goalie,W Goal
+27 Apr '13,video,H,L,,MTL,26-17-5,1,4,1,7,0,6,0,0,17,28,19730,P. Budaj,A. Markov
+25 Apr '13,video,R,W,,FLA,26-16-5,4,0,0,1,0,3,0,0,17,34,16484,J. Reimer,L. Komarov
+24 Apr '13,video,R,L,,TBL,25-16-5,2,5,0,2,0,2,0,0,28,26,18826,B. Bishop,R. Gudas
+20 Apr '13,video,R,W,,OTT,25-15-5,4,1,1,3,0,2,0,0,22,50,20500,J. Reimer,J. van Riemsdyk
+18 Apr '13,video,H,L,,NYI,24-15-5,3,5,2,4,1,5,0,0,21,38,19676,E. Nabokov,J. Tavares
+16 Apr '13,video,R,L,,WSH,24-14-5,1,5,0,3,2,6,0,0,30,37,18506,B. Holtby,M. Erat
+15 Apr '13,video,H,W,,NJD,24-13-5,2,0,1,3,0,4,0,0,13,32,19425,J. Reimer,P. Kessel
+13 Apr '13,video,H,W,,MTL,23-13-5,5,1,1,5,0,4,0,0,28,37,19651,J. Reimer,L. Komarov
+10 Apr '13,video,R,O,SO,NYR,22-13-5,2,2,0,2,0,3,0,0,25,28,17200,H. Lundqvist,M. Zuccarello
+08 Apr '13,video,H,W,,NYR,22-13-4,4,3,1,2,0,2,0,0,28,34,19437,J. Reimer,P. Kessel
+06 Apr '13,video,R,W,,NJD,21-13-4,2,1,0,5,0,5,0,0,18,28,17625,J. Reimer,T. Bozak
+04 Apr '13,video,H,L,,PHI,20-13-4,3,5,0,1,0,3,0,0,28,31,19619,I. Bryzgalov,J. Rosehill
+30 Mar '13,video,R,W,,OTT,20-12-4,4,0,1,5,0,5,0,0,23,31,20183,J. Reimer,J. Lupul
+28 Mar '13,video,H,W,,CAR,19-12-4,6,3,1,4,1,3,0,1,36,22,19236,J. Reimer,J. Lupul
+26 Mar '13,video,H,W,,FLA,18-12-4,3,2,1,3,0,1,0,0,31,42,19379,B. Scrivens,J. Lupul
+25 Mar '13,video,R,O,SO,BOS,17-12-4,2,2,1,3,0,1,0,0,25,29,17565,T. Rask,P. Bergeron
+23 Mar '13,video,H,W,,BOS,17-12-3,3,2,0,2,0,1,0,0,13,33,19236,J. Reimer,F. McLaren
+21 Mar '13,video,R,O,SO,BUF,16-12-3,4,4,2,4,1,5,0,0,34,36,19070,R. Miller,S. Ott
+20 Mar '13,video,H,W,,TBL,16-12-2,4,2,0,2,0,4,0,0,26,28,19433,J. Reimer,T. Bozak
+16 Mar '13,video,H,O,SO,WPG,15-12-2,4,4,0,2,0,2,0,0,32,33,19401,O. Pavelec,Z. Bogosian
+14 Mar '13,video,H,L,,PIT,15-12-1,1,3,0,3,0,3,0,1,29,28,19561,M. Fleury,P. Dupuis
+12 Mar '13,video,R,L,,WPG,15-11-1,2,5,0,3,1,4,0,0,26,34,15004,O. Pavelec,K. Wellwood
+09 Mar '13,video,H,O,SO,PIT,15-10-1,4,4,2,3,0,4,0,0,26,41,19418,M. Fleury,J. Neal
+07 Mar '13,video,R,L,,BOS,15-10-0,2,4,0,3,0,3,0,0,27,25,17565,A. Khudobin,D. Krejci
+06 Mar '13,video,H,W,,OTT,15-9-0,5,4,1,2,0,1,0,0,28,43,19412,J. Reimer,N. Kadri
+04 Mar '13,video,H,W,,NJD,14-9-0,4,2,1,4,0,4,0,0,23,30,19435,J. Reimer,C. MacArthur
+28 Feb '13,video,R,W,OT,NYI,13-9-0,5,4,0,0,0,0,0,0,28,27,9222,J. Reimer,D. Phaneuf
+27 Feb '13,video,H,L,,MTL,12-9-0,2,5,0,1,1,2,0,0,23,40,19625,C. Price,B. Gallagher
+25 Feb '13,video,R,W,,PHI,12-8-0,4,2,0,3,1,6,0,0,22,25,19645,B. Scrivens,M. Grabovski
+23 Feb '13,video,R,L,,OTT,11-8-0,2,3,1,2,0,1,0,0,28,35,19499,B. Bishop,C. Greening
+21 Feb '13,video,H,W,,BUF,11-7-0,3,1,2,5,0,3,0,0,36,32,19473,B. Scrivens,J. van Riemsdyk
+19 Feb '13,video,R,L,,TBL,10-7-0,2,4,0,3,1,6,0,0,25,19,19204,A. Lindback,A. Killorn
+18 Feb '13,video,R,W,,FLA,10-6-0,3,0,1,2,0,3,0,0,33,37,17177,B. Scrivens,P. Kessel
+16 Feb '13,video,H,W,,OTT,9-6-0,3,0,0,2,0,4,0,0,29,34,19537,B. Scrivens,F. McLaren
+14 Feb '13,video,R,L,,CAR,8-6-0,1,3,1,2,1,3,0,0,23,33,18680,D. Ellis,J. Jokinen
+11 Feb '13,video,H,W,,PHI,8-5-0,5,2,0,5,0,3,0,0,24,46,19253,J. Reimer,M. Frattin
+09 Feb '13,video,R,W,,MTL,7-5-0,6,0,2,6,0,4,0,0,28,37,21273,J. Reimer,L. Komarov
+07 Feb '13,video,R,W,,WPG,6-5-0,3,2,1,4,0,4,1,1,18,25,15004,J. Reimer,P. Kessel
+05 Feb '13,video,R,W,,WSH,5-5-0,3,2,0,3,2,3,0,0,21,26,18506,B. Scrivens,K. Holzer
+04 Feb '13,video,H,L,,CAR,4-5-0,1,4,0,5,2,4,0,0,42,39,19072,C. Ward,E. Staal
+02 Feb '13,video,H,L,,BOS,4-4-0,0,1,0,3,0,2,0,0,21,34,19246,T. Rask,C. Bourque
+31 Jan '13,video,H,W,,WSH,4-3-0,3,2,1,8,1,3,0,0,40,22,19374,J. Reimer,M. Frattin
+29 Jan '13,video,R,W,OT,BUF,3-3-0,4,3,0,2,1,1,0,0,24,32,18801,J. Reimer,M. Frattin
+26 Jan '13,video,R,L,,NYR,2-3-0,2,5,1,4,0,4,0,0,17,42,17200,H. Lundqvist,M. Gaborik
+24 Jan '13,video,H,L,,NYI,2-2-0,4,7,0,5,1,2,0,1,43,34,19125,E. Nabokov,K. Aucoin
+23 Jan '13,video,R,W,,PIT,2-1-0,5,2,1,8,1,5,0,0,24,30,18641,J. Reimer,J. van Riemsdyk
+21 Jan '13,video,H,L,,BUF,1-1-0,1,2,1,7,0,3,0,0,35,20,19475,R. Miller,J. Pominville
+19 Jan '13,video,R,W,,MTL,1-0-0,2,1,2,5,1,5,0,0,26,22,21273,B. Scrivens,T. Bozak

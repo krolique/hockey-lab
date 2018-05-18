@@ -1,0 +1,83 @@
+Date,Video,H/R,Dec,O/S,Opp,Record,GF,GA,PPG,PP Opp,PPGA,TS,SHGF,SHGA,SF,SA,Att,W Goalie,W Goal
+Apr 11 '10,video,R,W,,FLA,34-36-12,3,1,0,5,0,2,0,0,31,31,15884,M. Smith,V. Lecavalier
+Apr 10 '10,video,H,W,SO,FLA,33-36-12,3,3,2,5,1,6,0,1,37,32,17050,A. Niittymaki,S. Stamkos
+Apr 08 '10,video,H,W,SO,OTT,32-36-12,3,3,2,4,3,9,0,0,29,38,15876,M. Smith,T. Purcell
+Apr 06 '10,video,H,L,,CAR,31-36-12,5,8,0,3,1,4,0,0,37,41,12454,C. Ward,E. Staal
+Apr 02 '10,video,H,L,,NYR,31-35-12,0,5,0,4,1,3,0,0,30,22,17909,H. Lundqvist,B. Prust
+Mar 31 '10,video,R,W,,PIT,31-34-12,2,0,1,4,0,4,0,0,17,27,17132,M. Smith,S. Stamkos
+Mar 30 '10,video,R,L,,CBJ,30-34-12,2,3,1,4,1,6,0,0,18,25,15760,S. Mason,R. Nash
+Mar 27 '10,video,R,L,,BUF,30-33-12,1,7,0,2,3,4,0,0,23,26,18690,P. Lalime,D. Roy
+Mar 25 '10,video,R,W,,BOS,30-32-12,5,3,2,3,0,3,0,0,18,50,17565,A. Niittymaki,S. Stamkos
+Mar 23 '10,video,H,W,OT,CAR,29-32-12,3,2,1,3,0,0,0,0,27,29,13009,A. Niittymaki,M. St. Louis
+Mar 21 '10,video,R,L,,FLA,28-32-12,2,5,1,2,1,5,0,0,31,40,14831,S. Clemmensen,C. Stillman
+Mar 20 '10,video,H,L,,WSH,28-31-12,1,3,0,5,0,4,0,0,34,28,19844,J. Theodore,A. Ovechkin
+Mar 18 '10,video,H,L,,BUF,28-30-12,2,6,1,4,1,7,0,1,25,28,16868,R. Miller,J. Pominville
+Mar 16 '10,video,H,L,,PHX,28-29-12,1,2,0,4,0,3,0,0,28,28,14517,I. Bryzgalov,M. Lombardi
+Mar 14 '10,video,H,L,,PIT,28-28-12,1,2,0,3,1,5,0,0,22,39,20230,M. Fleury,S. Gonchar
+Mar 12 '10,video,R,W,,WSH,28-27-12,3,2,0,1,2,4,0,0,27,30,18277,A. Niittymaki,V. Lecavalier
+Mar 11 '10,video,R,O,OT,TOR,27-27-12,3,4,1,2,0,2,0,0,33,38,19110,J. Giguere,P. Kessel
+Mar 09 '10,video,R,L,,MTL,27-27-11,3,5,1,4,1,2,0,0,31,28,21273,J. Halak,M. Darche
+Mar 06 '10,video,H,W,,ATL,27-26-11,6,2,1,4,0,5,0,0,30,31,19926,A. Niittymaki,P. Szczechura
+Mar 04 '10,video,R,L,,WSH,26-26-11,4,5,2,5,0,3,0,0,29,34,18277,S. Varlamov,S. Walker
+Mar 02 '10,video,H,L,,PHI,26-25-11,2,7,0,7,3,9,0,1,38,34,17812,M. Leighton,S. Gagne
+Feb 14 '10,video,R,L,,NYR,26-24-11,2,5,1,3,0,4,0,0,29,23,18200,H. Lundqvist,E. Christensen
+Feb 13 '10,video,R,L,,NYI,26-23-11,4,5,0,5,0,4,0,0,42,33,12337,M. Biron,R. Park
+Feb 11 '10,video,H,L,,BOS,26-22-11,4,5,1,5,1,3,0,0,35,36,15826,T. Rask,M. Lucic
+Feb 09 '10,video,H,W,,VAN,26-21-11,3,1,1,5,1,5,1,0,19,40,14226,A. Niittymaki,M. St. Louis
+Feb 06 '10,video,H,W,OT,CGY,25-21-11,2,1,0,5,1,4,0,0,23,26,15859,A. Niittymaki,A. Meszaros
+Feb 04 '10,video,H,W,,NYI,24-21-11,5,2,1,3,0,4,0,0,31,36,13891,A. Niittymaki,V. Lecavalier
+Feb 02 '10,video,R,W,,ATL,23-21-11,2,1,0,3,0,3,0,0,24,27,11390,A. Niittymaki,M. St. Louis
+Jan 31 '10,video,R,L,,WSH,22-21-11,2,3,1,2,1,3,0,0,27,31,18277,J. Theodore,A. Ovechkin
+Jan 29 '10,video,H,O,SO,ANA,22-20-11,1,1,0,2,1,2,0,0,31,32,15230,J. Hiller,J. Wisniewski
+Jan 27 '10,video,H,W,,MTL,22-20-10,3,0,1,3,0,3,0,0,30,33,14404,A. Niittymaki,M. St. Louis
+Jan 23 '10,video,H,W,SO,ATL,21-20-10,1,1,1,4,0,6,0,0,26,38,16212,A. Niittymaki,J. Halpern
+Jan 21 '10,video,H,W,OT,TOR,20-20-10,3,2,2,7,2,6,0,0,32,22,13691,A. Niittymaki,M. St. Louis
+Jan 19 '10,video,R,L,,NYR,19-20-10,2,8,1,5,2,4,0,0,23,31,18200,H. Lundqvist,C. Drury
+Jan 18 '10,video,R,W,,CAR,19-19-10,3,2,1,2,0,4,0,0,32,22,16031,A. Niittymaki,S. Downie
+Jan 16 '10,video,R,L,,FLA,18-19-10,2,5,1,4,2,3,0,0,49,23,15971,T. Vokoun,B. Allen
+Jan 14 '10,video,H,L,,FLA,18-18-10,2,3,0,1,0,2,0,0,30,29,13516,T. Vokoun,R. Olesz
+Jan 12 '10,video,H,W,,WSH,18-17-10,7,4,4,7,2,4,0,0,36,36,13891,A. Niittymaki,M. St. Louis
+Jan 09 '10,video,R,L,,PHI,17-17-10,1,4,0,5,1,5,0,0,18,31,19678,M. Leighton,S. Hartnell
+Jan 08 '10,video,R,W,,NJD,17-16-10,4,2,2,5,0,4,0,0,14,35,15129,M. Smith,S. Stamkos
+Jan 06 '10,video,R,L,,BUF,16-16-10,3,5,0,3,1,3,0,0,39,35,18690,R. Miller,D. Stafford
+Jan 02 '10,video,H,W,,PIT,16-15-10,3,1,0,4,0,4,0,0,37,26,20109,M. Smith,Z. Konopka
+Dec 30 '09,video,H,O,OT,MTL,15-15-10,1,2,0,2,0,3,0,0,35,35,18441,C. Price,T. Plekanec
+Dec 28 '09,video,H,W,,BOS,15-15-9,2,1,1,5,0,3,0,0,39,32,16926,M. Smith,M. St. Louis
+Dec 26 '09,video,H,W,,ATL,14-15-9,4,3,0,1,0,3,0,0,34,27,15437,M. Smith,R. Malone
+Dec 23 '09,video,H,L,,PHI,13-15-9,2,5,0,3,1,3,0,0,33,36,16177,M. Leighton,B. Betts
+Dec 21 '09,video,R,W,,NYI,13-14-9,4,2,2,4,1,6,0,0,28,38,10864,M. Smith,R. Malone
+Dec 18 '09,video,R,W,,STL,12-14-9,6,3,0,4,2,5,0,0,24,26,19150,A. Niittymaki,J. Halpern
+Dec 17 '09,video,R,L,,DET,11-14-9,0,3,0,5,0,2,0,0,30,22,19474,J. Howard,D. Miller
+Dec 15 '09,,R,L,,NSH,11-13-9,4,7,2,4,0,2,0,0,34,27,15084,P. Rinne,J. Dumont
+Dec 13 '09,video,R,L,,CHI,11-12-9,0,4,0,5,0,7,0,0,18,29,21081,A. Niemi,P. Kane
+Dec 11 '09,video,R,O,SO,COL,11-11-9,1,1,0,1,0,3,0,0,22,34,12188,C. Anderson,W. Wolski
+Dec 09 '09,video,H,L,,EDM,11-11-8,2,3,0,4,0,4,0,0,34,32,13477,J. Deslauriers,Z. Stortini
+Dec 07 '09,video,H,L,,WSH,11-10-8,0,3,0,3,1,5,0,0,26,34,12400,S. Varlamov,A. Ovechkin
+Dec 05 '09,video,H,W,,NYI,11-9-8,4,0,2,3,0,6,0,0,25,30,13577,M. Smith,R. Malone
+Dec 04 '09,video,R,L,,NJD,10-9-8,2,3,1,4,2,4,0,0,24,19,15336,M. Brodeur,J. Langenbrunner
+Dec 02 '09,video,R,L,,BOS,10-8-8,1,4,0,6,1,3,0,0,40,39,16553,T. Thomas,P. Bergeron
+Nov 30 '09,video,H,L,,COL,10-7-8,0,3,0,7,1,5,0,0,33,29,12214,C. Anderson,M. Duchene
+Nov 28 '09,video,R,O,OT,DAL,10-6-8,3,4,1,3,3,6,0,0,28,38,17334,A. Auld,T. Wandell
+Nov 27 '09,video,H,W,,NYR,10-6-7,5,1,2,2,0,3,0,0,31,27,17608,M. Smith,K. Foster
+Nov 25 '09,video,H,L,,TOR,9-6-7,3,4,1,3,0,3,0,0,31,35,15333,J. Gustavsson,M. Stajan
+Nov 22 '09,,R,W,OT,ATL,9-5-7,4,3,1,5,0,3,0,0,40,31,13342,A. Niittymaki,S. Stamkos
+Nov 21 '09,video,R,L,,CAR,8-5-7,1,3,1,4,1,5,0,0,21,27,13224,M. Legace,J. Jokinen
+Nov 19 '09,video,R,O,OT,ANA,8-4-7,3,4,1,4,3,7,0,0,24,27,14555,J. Hiller,S. Niedermayer
+Nov 16 '09,video,R,W,,PHX,8-4-6,4,1,1,6,0,2,0,0,19,31,9503,M. Smith,A. Tanguay
+Nov 14 '09,video,H,O,SO,LAK,7-4-6,1,1,0,5,1,4,0,0,29,30,16612,J. Quick,A. Kopitar
+Nov 12 '09,video,H,W,SO,MIN,7-4-5,3,3,1,4,1,4,1,0,22,34,14530,A. Niittymaki,V. Lecavalier
+Nov 07 '09,video,R,W,,MTL,6-4-5,3,1,1,3,1,1,0,0,21,37,21273,A. Niittymaki,A. Tanguay
+Nov 05 '09,video,R,O,OT,OTT,5-4-5,2,3,2,7,2,6,0,0,20,29,17511,P. Leclaire,J. Spezza
+Nov 03 '09,video,R,W,OT,TOR,5-4-4,2,1,0,4,1,8,0,0,32,41,19301,A. Niittymaki,R. Malone
+Nov 02 '09,video,R,L,,PHI,4-4-4,2,6,0,2,2,4,0,0,28,31,18667,R. Emery,J. Carter
+Oct 31 '09,video,H,O,SO,NJD,4-3-4,1,1,0,3,0,4,0,0,19,38,12154,M. Brodeur,D. Clarkson
+Oct 29 '09,video,H,W,,OTT,4-3-3,5,2,2,6,0,3,0,0,27,23,13213,M. Smith,R. Malone
+Oct 24 '09,video,H,O,SO,BUF,3-3-3,2,2,0,2,0,3,0,0,26,32,15804,R. Miller,T. Myers
+Oct 22 '09,video,H,W,,SJS,3-3-2,5,2,0,1,1,3,0,0,25,34,13343,M. Smith,S. Stamkos
+Oct 17 '09,video,R,L,,PIT,2-3-2,1,4,1,7,1,7,0,0,23,33,17132,M. Fleury,S. Gonchar
+Oct 15 '09,video,R,L,,OTT,2-2-2,1,7,0,6,1,6,0,2,17,35,17732,P. Leclaire,M. Michalek
+Oct 12 '09,video,H,W,,FLA,2-1-2,3,2,2,6,1,5,0,1,31,33,14126,A. Niittymaki,R. Malone
+Oct 10 '09,video,H,W,,CAR,1-1-2,5,2,1,6,2,5,0,0,39,26,14212,A. Niittymaki,R. Malone
+Oct 08 '09,video,H,O,SO,NJD,0-1-2,3,3,1,4,1,2,0,0,44,34,17454,M. Brodeur,Z. Parise
+Oct 06 '09,,R,O,SO,CAR,0-1-1,1,1,1,8,1,5,0,0,30,28,16186,C. Ward,S. Samsonov
+Oct 03 '09,,R,L,,ATL,0-1-0,3,6,1,3,1,3,0,0,39,28,18545,O. Pavelec,R. Peverley
