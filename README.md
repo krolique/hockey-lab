@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/krolique/hokey-lab.svg?branch=master)](https://travis-ci.org/krolique/hokey-lab)
+[![Build Status](https://travis-ci.org/krolique/hokey-lab.svg?branch=develop)](https://travis-ci.org/krolique/hokey-lab)
 
 # Hokey Lab
 Here lies the the code that automates the hokey lab
