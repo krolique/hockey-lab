@@ -57,7 +57,7 @@ def generate_stream(payload_key='teams', output_stream=None):
     payload = fetch_json()
     for element in payload.get(payload_key):
         serialized = dumps(element)
-        output_stream.write("{serialized}\n".format(serialized=serialized))
+        output_stream.write(f"{serialized}\n")
 
 
 if __name__ == "__main__":
