@@ -40,7 +40,7 @@ def fetch_json(endpoint_url=ENDPOINT_URL, timeout=REQUEST_TIMEOUT):
     return response.json()
 
 
-def streamer(payload_key='teams', output_stream=None):
+def generate_stream(payload_key='teams', output_stream=None):
     """ Emits payload elements to the output stream
 
     :param payload_key: name of the JSON property which contains the
@@ -61,4 +61,4 @@ def streamer(payload_key='teams', output_stream=None):
 
 
 if __name__ == "__main__":
-    streamer()
+    generate_stream()
