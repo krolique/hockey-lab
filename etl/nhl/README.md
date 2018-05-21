@@ -1,23 +1,19 @@
 # NHL.com
-This component enbles scraping of the NHL.com API. 
+This component enables scraping of the NHL.com API.
 
 
 ## Design
-The general design is to avoid the tendancy to write everything with the
+The general design is to avoid the tendency to write everything with the
 assumption the data is clean, doesn't change and the processing steps are
-not reversable. Data always changes, contract with exteranl API change and
+not reversible. Data always changes, contract with external API change and
 we reverse decisions all the time. Debugging an ETL job with these flaws is
-painful and tends to discourage development. 
+painful and tends to discourage development.
 
 The design here embraces change in all directions by refusing to write ETL
 components int library functions or importable modules. These leads to
-monoliths. We is encouraged here is assuming everything is a stream and
-every steps is either generating a stream, mutating a stream or saving
-ouput from a stream. The only way to share state of data is by
-reading/writting to and from a stream. 
-
-The building blocks here are fact generating streams, stream transformers
-and stream syncs. 
+monoliths. Design here embraces streams and every steps is either generating
+a stream, mutating a stream or saving output from a stream. The only way to
+share state of data is by reading/writing to and from a stream.
 
 Example of an ETL process for generating dimensional division facts to
 standard output:
@@ -57,7 +53,7 @@ A module that streams/emits facts. Generally speaking this is a wrapper
 around the API endpoints capable of returning a payload.
 
 The contract that must be meet by the stream: 
-- Each message in the stream **MUST** be JSON serializable string
+- Each message in the stream **MUST** be JSON realizable string
 - Each row must end in a new line character
 - Whenever possible the fact module should never attempt to alter the
 original format. The output should be raw data from the API.
@@ -80,10 +76,10 @@ Example output:
 ```
 
 ### Transformer
-A module that performs work on each message in the stream. Generaly this is
-where you will format the data into a shape more sutable for database domain
+A module that performs work on each message in the stream. Generally this is
+where you will format the data into a shape more suitable for database domain
 or clean the incoming data for consistency. Additionally is is possible to
-conver from one format to another. Type transformers are really consumer
+convert from one format to another. Type transformers are really consumer
 of the Data transformers or rather the should be joined together to
 form the final product of an ET (minus L).
 
@@ -96,11 +92,8 @@ The contract that must be meet by the transformer:
 - Emit the name of the message type as the first item in the stream
 - Emit a list of message property names as the second item in the stream
 - Emit N number of messages
-- Each message of the stream **MUST** be JSON serializable string
+- Each message of the stream **MUST** be JSON realizable string
 - Each message in the stream must end with a new line character
-
-Whenever possible the fact module should never attempt to alter the
-original format. The output should be raw data from the API.
 
 Example output:
 ``` bash
