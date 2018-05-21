@@ -17,8 +17,8 @@ ENTITY_KEYS = ['full_name', 'short_name', 'abbreviation', 'location',
                'division', 'conference', 'first_year_of_play']
 
 
-def escape_utf_8(value):
-    """ Replaces UTF-8 characters with their latin equvalents
+def translit_to_latin(value):
+    """ Replaces UTF-8 characters to their latin equvalents
 
     :param value: the string to transliterate
     :type value: str
@@ -30,7 +30,8 @@ def escape_utf_8(value):
     # there is nothing to transliterate
     if not detect_language(value):
         return value
-
+    # using the reversed param in the function enables the function to
+    # substitute UTF-8 to latin
     return translit(value, reversed=True)
 
 
@@ -44,7 +45,7 @@ def transform(message):
     """
 
     return {
-        'full_name': escape_utf_8(value=message.get('name')),
+        'full_name': translit_to_latin(value=message.get('name')),
         'short_name': message.get('shortName'),
         'team_name': message.get('teamName'),
         'abbreviation': message.get('abbreviation'),
