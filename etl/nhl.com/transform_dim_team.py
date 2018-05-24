@@ -10,29 +10,15 @@
 from json import dumps, loads
 from sys import stdout, stdin
 
-from transliterate import translit, detect_language
+from dim_helpers import stream_header, translit_to_latin
 
-#: defines entity propertie names
-ENTITY_KEYS = ['full_name', 'short_name', 'abbreviation', 'location',
-               'division', 'conference', 'first_year_of_play']
+#: fields the entity
+ENTITY_FIELDS = ['full_name', 'short_name', 'abbreviation', 'location',
+                 'division', 'conference', 'first_year_of_play', 'team_name']
 
 
-def translit_to_latin(value):
-    """ Replaces UTF-8 characters to their latin equvalents
-
-    :param value: the string to transliterate
-    :type value: str
-    :returns: transliterated string
-    :rtype: str
-    """
-
-    # when this library function fails to detect a language
-    # there is nothing to transliterate
-    if not detect_language(value):
-        return value
-    # using the reversed param in the function enables the function to
-    # substitute UTF-8 to latin
-    return translit(value, reversed=True)
+#: name of the entity being emitted
+ENTITY_NAME = 'dim_team'
 
 
 def transform(message):
@@ -44,15 +30,25 @@ def transform(message):
     :rtype: dict
     """
 
+    full_name = translit_to_latin(value=message.get('name'))
+    short_name = translit_to_latin(value=message.get('shortName'))
+    team_name = translit_to_latin(value=message.get('teamName'))
+    location_name = translit_to_latin(value=message.get('locationName'))
+    abbreviation = translit_to_latin(value=message.get('abbreviation'))
+
+    first_year = message.get('firstYearOfPlay')
+    if first_year is not None:
+        first_year = int(first_year)
+
     return {
-        'full_name': translit_to_latin(value=message.get('name')),
-        'short_name': message.get('shortName'),
-        'team_name': message.get('teamName'),
-        'abbreviation': message.get('abbreviation'),
-        'location': message.get('locationName'),
+        'full_name': full_name,
+        'short_name': short_name,
+        'team_name': team_name,
+        'abbreviation': abbreviation,
+        'location': location_name,
         'division': message.get('division').get('name'),
         'conference': message.get('conference').get('name'),
-        'first_year_of_play': message.get('firstYearOfPlay')
+        'first_year_of_play': first_year
     }
 
 
@@ -70,8 +66,8 @@ def process_stream(input_stream=None, output_stream=None):
     if not output_stream:
         output_stream = stdout
 
-    output_stream.write('{"type": "dim_team"}\n')
-    output_stream.write(f'{ENTITY_KEYS}\n')
+    serialized = dumps(stream_header(name=ENTITY_NAME, fields=ENTITY_FIELDS))
+    output_stream.write(f'{serialized}\n')
     for input_str in input_stream:
         message = loads(input_str)
         transformed = transform(message=message)

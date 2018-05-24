@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-    Fact Stream
-    -----------
+    Extract Team Facts
+    ------------------
 
     Generates a stream of NHL team facts
 

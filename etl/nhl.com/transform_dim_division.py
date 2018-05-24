@@ -10,7 +10,14 @@
 from json import dumps, loads
 from sys import stdout, stdin
 
-ENTITY_KEYS = ['name']
+from dim_helpers import stream_header
+
+#: fields on the entity
+ENTITY_FIELDS = ['name']
+
+
+#: name of the entity being emitted
+ENTITY_NAME = 'dim_division'
 
 
 def process_stream(input_stream=None, output_stream=None):
@@ -28,8 +35,8 @@ def process_stream(input_stream=None, output_stream=None):
     if not output_stream:
         output_stream = stdout
 
-    output_stream.write('{"type": "dim_division"}\n')
-    output_stream.write(f'{ENTITY_KEYS}\n')
+    serialized = dumps(stream_header(name=ENTITY_NAME, fields=ENTITY_FIELDS))
+    output_stream.write(f'{serialized}\n')
     divisions = set()
     for input_str in input_stream:
         message = loads(input_str)

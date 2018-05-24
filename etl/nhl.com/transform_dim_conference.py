@@ -10,9 +10,15 @@
 from json import dumps, loads
 from sys import stdout, stdin
 
+from dim_helpers import stream_header
 
-#: defines the list of entity properties
-ENTITY_KEYS = ['name']
+
+#: fields on the entity
+ENTITY_FIELDS = ['name']
+
+
+#: name of the entity being emitted
+ENTITY_NAME = 'dim_conference'
 
 
 def process_stream(input_stream=None, output_stream=None):
@@ -29,8 +35,8 @@ def process_stream(input_stream=None, output_stream=None):
     if not output_stream:
         output_stream = stdout
 
-    output_stream.write('{"type": "dim_conference"}\n')
-    output_stream.write(f'{ENTITY_KEYS}\n')
+    serialized = dumps(stream_header(name=ENTITY_NAME, fields=ENTITY_FIELDS))
+    output_stream.write(f'{serialized}\n')
     conferences = set()
     for input_str in input_stream:
         message = loads(input_str)
