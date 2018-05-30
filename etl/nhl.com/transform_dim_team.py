@@ -10,7 +10,9 @@
 from json import dumps, loads
 from sys import stdout, stdin
 
-from dim_helpers import stream_header, translit_to_latin
+from dim_helpers import stream_header
+from utils import latinize
+
 
 #: fields the entity
 ENTITY_FIELDS = ['full_name', 'short_name', 'abbreviation', 'location',
@@ -30,11 +32,11 @@ def transform(message):
     :rtype: dict
     """
 
-    full_name = translit_to_latin(value=message.get('name'))
-    short_name = translit_to_latin(value=message.get('shortName'))
-    team_name = translit_to_latin(value=message.get('teamName'))
-    location_name = translit_to_latin(value=message.get('locationName'))
-    abbreviation = translit_to_latin(value=message.get('abbreviation'))
+    full_name = latinize(value=message.get('name'))
+    short_name = latinize(value=message.get('shortName'))
+    team_name = latinize(value=message.get('teamName'))
+    location_name = latinize(value=message.get('locationName'))
+    abbreviation = latinize(value=message.get('abbreviation'))
 
     first_year = message.get('firstYearOfPlay')
     if first_year is not None:
