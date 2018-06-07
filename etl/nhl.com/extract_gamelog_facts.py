@@ -39,7 +39,7 @@ def fetch_html(team_name, from_year, to_year, game_type,
     :type from_year: int
     :param to_year: ending year for the season
     :type to_year: int
-    :param game_type: one of two values regular or playoffs
+    :param game_type: one of two values regular or playoff
     :param game_type: str
     :param endpoint_url: the endpoint to fetch data from
     :type endpoint_url: str
@@ -55,7 +55,7 @@ def fetch_html(team_name, from_year, to_year, game_type,
     # doesn't need to know about this translation.
     if game_type == 'regular':
         game_type = 2
-    elif game_type == 'playoffs':
+    elif game_type == 'playoff':
         game_type = 3
     else:
         raise RuntimeError(f'game type of {game_type} is not supported')
@@ -110,7 +110,7 @@ def game_facts(html_text, from_year, to_year, game_type):
     :type from_year: int
     :param to_year: ending year for the season
     :type to_year: int
-    :param game_type: one of two values regular or playoffs
+    :param game_type: one of two values regular or playoff
     :param game_type: str
     :returns: a sequence of game facts
     :rtype: generator
@@ -134,7 +134,7 @@ def game_facts(html_text, from_year, to_year, game_type):
     expected_prefix = f'{from_year}-{to_year} {game_type}'
 
     # the first 17 characters of the title currently follow this format
-    # YYYY-YYYY regular/playoffs. By using this fact we can ensure the
+    # YYYY-YYYY regular/playoff. By using this fact we can ensure the
     # resultant HTML table is the data we expected.
     if title[:17] != expected_prefix:
         # an exception would be more noticable if this piece stops working
@@ -159,7 +159,7 @@ def generate_stream(team_name, from_year, to_year, game_type,
     :type from_year: int
     :param to_year: ending year for the season
     :type to_year: int
-    :param game_type: one of two values regular or playoffs
+    :param game_type: one of two values regular or playoff
     :param game_type: str
     :param output_stream: the stream to which elements are emitted to
     :type output_stream: FileObject
